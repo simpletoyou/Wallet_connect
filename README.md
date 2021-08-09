@@ -1,4 +1,4 @@
-# DPCP
+# WALLET CONNECT
 
 > A Vue.js project
 
@@ -15,5 +15,5 @@
 ```bash
 1. npm run build   #build并输出dist目录
 2. 安装 H5 builder
-3. 新建移动APP项目，将DPCP项目build后输出的dist目录内的内容，拷贝到新建的移动APP项目中，发行云打包，使用谷歌DCloud公有证书即可打包
+3. 新建移动APP项目，将项目build后输出的dist目录内的内容，拷贝到新建的移动APP项目中，发行云打包，使用谷歌DCloud公有证书即可打包
 ```
